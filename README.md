@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This account is archived, you can reach me at https://github.com/timur-me
+
 <!--
 **advanc-ed/advanc-ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
